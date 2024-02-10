@@ -1,6 +1,6 @@
 Step 1: Change into the home directory 
 
-	Cmd -> **cd /home** 
+	Cmd -> cd /home 
 
 	 
 	![image](https://github.com/jackbauer26/AltSchoolCloudEngineering/assets/64382195/5a2464fa-dbc7-403b-a71f-2f4cb4158148)
@@ -123,6 +123,8 @@ Step 13: Lock a user’s password
 	User is logged in as a local user of that account 
 
 Cmd -> passwd –l testAccount 
+
+
 	![image](https://github.com/jackbauer26/AltSchoolCloudEngineering/assets/64382195/78a1da8e-9f51-4843-a4f1-e9f5af4d96f6)
 
                  
