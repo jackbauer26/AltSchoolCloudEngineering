@@ -64,7 +64,7 @@ Step 8: Copy the contents of fileA into fileC
 
 Assumption: I am in the personal directory 
 
-Cmd -> `cp ../test/fileA ../testfileC` 
+Cmd -> `cp ../test/fileA ../test/fileC` 
 
  ![image](https://github.com/jackbauer26/AltSchoolCloudEngineering/assets/64382195/193d7af9-fa8d-47eb-902e-83f10669356e)
 
