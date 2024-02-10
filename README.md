@@ -1,6 +1,6 @@
 Step 1: Change into the home directory 
 
-	Cmd -> cd /home 
+	Cmd -> *cd /home* 
 
 	 
 
