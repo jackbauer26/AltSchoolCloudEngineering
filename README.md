@@ -3,6 +3,7 @@ Step 1: Change into the home directory
 	Cmd -> **cd /home** 
 
 	 
+	![image](https://github.com/jackbauer26/AltSchoolCloudEngineering/assets/64382195/dd643ea1-e9fb-4439-8790-ae58049bf23c)
 
  
 
