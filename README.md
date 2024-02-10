@@ -140,7 +140,7 @@ Step 15: Disable password-based authentication for ssh
 
 Step 16: Disable root login for ssh 
 
-	Cmd -> vi /etc/ssh/sshd_config 
+	Cmd -> **vi /etc/ssh/sshd_config** 
 
 		Run sudo systemctl restart ssh after the upper command is run 
 
